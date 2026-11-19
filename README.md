@@ -14,7 +14,7 @@ Mi Claude Code dentro de World of Warcraft: le mando tareas desde el juego, veo 
 `Lua` · `Node.js` · `MCP` · `GitHub Actions` · `CurseForge`
 
 #### 🔴⚪ [La Grada Colchonera](https://github.com/VelaElDios/la-grada-colchonera-saas)
-Juego web rojiblanco tipo *survivor* en pixel art: aguanta oleadas con leyendas del Atleti, ficha jugadores y compite en el ranking. **[▶ Jugar](https://la-grada-colchonera-1081564062572.europe-southwest1.run.app)**
+Juego web rojiblanco tipo *survivor* en pixel art: aguanta oleadas con leyendas del Atleti, ficha jugadores y compite en el ranking. ¿Seras el mejor? **[▶ Jugar](https://la-grada-colchonera-1081564062572.europe-southwest1.run.app)**
 
 `Node.js` · `Express` · `PostgreSQL` · `OAuth2` · `Google Cloud Run` · `GitHub Actions`
 
