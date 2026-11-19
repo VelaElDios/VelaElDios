@@ -9,11 +9,9 @@ Estudiante de **Ingeniería Informática** en la ESII (UCLM, Albacete). Me paso 
 ### 🛠️ Proyectos destacados
 
 #### ⚡ [Claude Terminal (Claude x WoW)](https://github.com/VelaElDios/claude-x-wow)
-Mi Claude Code dentro de World of Warcraft: le mando tareas desde el juego, veo en directo qué archivos lee y edita, le apruebo permisos con botones y sigo jugando. Como los addons de WoW no tienen red, el juego y el PC se comunican con **píxeles de colores** que se capturan de la pantalla y con **archivos que aparecen y desaparecen**.
+Mi Claude Code dentro de World of Warcraft: le mando tareas desde el juego, veo en directo lo que hace y le apruebo permisos con botones mientras sigo jugando.
 
-<a href="https://github.com/VelaElDios/claude-x-wow"><img src="https://raw.githubusercontent.com/VelaElDios/claude-x-wow/main/docs/img/hero.png" width="520" alt="Terminal de Claude Code dentro del WoW"></a>
-
-`Lua` · `Node.js` · `MCP` · `GitHub Actions` · publicado en CurseForge
+`Lua` · `Node.js` · `MCP` · `GitHub Actions` · `CurseForge`
 
 #### 🔴⚪ [La Grada Colchonera](https://github.com/VelaElDios/la-grada-colchonera-saas)
 Juego web rojiblanco tipo *survivor* en pixel art: aguanta oleadas con leyendas del Atleti, ficha jugadores y compite en el ranking. **[▶ Jugar](https://la-grada-colchonera-1081564062572.europe-southwest1.run.app)**
@@ -22,6 +20,13 @@ Juego web rojiblanco tipo *survivor* en pixel art: aguanta oleadas con leyendas 
 
 #### 🧠 [Cerebro Universal](https://github.com/VelaElDios/cerebro-universal)
 Proyecto personal para construir un "cerebro universal" libre y abierto en el mundo de la IA.
+
+### 🚧 En proceso
+
+#### 🐾 App de hábitos para parejas
+App con widgets para llevar hábitos y tareas en pareja, con una mascota absurda que vive o muere según lo constantes que seáis. Sin anuncios ni trucos para engancharte.
+
+`React Native` · `Firebase`
 
 ---
 
@@ -32,6 +37,8 @@ Proyecto personal para construir un "cerebro universal" libre y abierto en el mu
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
