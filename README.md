@@ -9,9 +9,9 @@ Estudiante de **Ingeniería Informática** en la ESII (UCLM, Albacete). Me paso 
 ### 🛠️ Proyectos destacados
 
 #### ⚡ [Claude Terminal (Claude x WoW)](https://github.com/VelaElDios/claude-x-wow)
-Mi Claude Code dentro de World of Warcraft: le mando tareas desde el juego, veo en directo lo que hace y le apruebo permisos con botones mientras sigo jugando.
+Mi Claude Code dentro de World of Warcraft: le mando tareas desde el juego, veo en directo lo que hace y le apruebo permisos con botones mientras sigo jugando. **[Descargar en CurseForge](https://www.curseforge.com/wow/addons/claude-terminal)**
 
-`Lua` · `Node.js` · `MCP` · `GitHub Actions` · `CurseForge`
+`Lua` · `Node.js` · `MCP` · `GitHub Actions`
 
 #### 🔴⚪ [La Grada Colchonera](https://github.com/VelaElDios/la-grada-colchonera-saas)
 Juego web rojiblanco tipo *survivor* en pixel art: aguanta oleadas con leyendas del Atleti, ficha jugadores y compite en el ranking. ¿Seras el mejor? **[▶ Jugar](https://la-grada-colchonera-1081564062572.europe-southwest1.run.app)**
